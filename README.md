@@ -596,10 +596,6 @@ Originally built as a prototype for the **IQOO Hackathon**, and scaffolded from 
 
 <div align="center">
 
-### ⭐ If ThreadLine saved your team from a "wait, what did we decide?" moment, consider giving it a star!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=tusharkkp/ThreadLine&type=Date)](https://star-history.com/#tusharkkp/ThreadLine&Date)
-
 **[⬆ Back to top](#-threadline)**
 
 </div>
