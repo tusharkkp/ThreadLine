@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/assets/threadline-logo-banner.jpg" alt="ThreadLine - AI WhatsApp Chat to Project Tracker Android App Logo" width="140" />
+<img src="https://github.com/tusharkkp/ThreadLine/blob/main/app/src/main/res/drawable/ic_threadline_logo_1787665930233.jpg" alt="ThreadLine - AI WhatsApp Chat to Project Tracker Android App Logo" width="140" />
 
 # 🧵 ThreadLine
 
