@@ -15,13 +15,6 @@
 [![Firebase](https://img.shields.io/badge/Firebase-AI%20Logic-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
 [![Built with Google AI Studio](https://img.shields.io/badge/Built%20with-Google%20AI%20Studio-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://aistudio.google.com)
 
-[![License: MIT](https://img.shields.io/github/license/tusharkkp/ThreadLine?style=for-the-badge&color=success)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/tusharkkp/ThreadLine?style=for-the-badge&color=yellow)](https://github.com/tusharkkp/ThreadLine/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/tusharkkp/ThreadLine?style=for-the-badge&color=blue)](https://github.com/tusharkkp/ThreadLine/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/tusharkkp/ThreadLine?style=for-the-badge)](https://github.com/tusharkkp/ThreadLine/issues)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](#contributing)
-
-**[Report Bug](https://github.com/tusharkkp/ThreadLine/issues) · [Request Feature](https://github.com/tusharkkp/ThreadLine/issues) · [View Demo Flow](#usage-guide)**
 
 </div>
 
