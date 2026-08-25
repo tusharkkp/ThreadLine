@@ -1,0 +1,6 @@
+{
+  "name": "Threadline",
+  "description": "AI-powered conversation intelligence for student project and hackathon teams, turning chat into structured project memory and tracking decision changes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,52 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Threadline decision node paths -->
+    <!-- Main stem line -->
+    <path
+        android:pathData="M54,26 L54,82"
+        android:strokeWidth="5"
+        android:strokeColor="#6366F1"
+        android:strokeLineCap="round" />
+    
+    <!-- Branch line representing decision evolution -->
+    <path
+        android:pathData="M54,54 C54,54 68,54 74,44 C78,38 78,32 78,32"
+        android:strokeWidth="4"
+        android:strokeColor="#38BDF8"
+        android:strokeLineCap="round" />
+
+    <!-- Top original node -->
+    <path
+        android:pathData="M54,26 m-6,0 a6,6 0 1,0 12,0 a6,6 0 1,0 -12,0"
+        android:fillColor="#818CF8" />
+    <path
+        android:pathData="M54,26 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Branch node (Superseding decision) -->
+    <path
+        android:pathData="M78,32 m-5,0 a5,5 0 1,0 10,0 a5,5 0 1,0 -10,0"
+        android:fillColor="#38BDF8" />
+    <path
+        android:pathData="M78,32 m-2,0 a2,2 0 1,0 4,0 a2,2 0 1,0 -4,0"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Center active node -->
+    <path
+        android:pathData="M54,54 m-7,0 a7,7 0 1,0 14,0 a7,7 0 1,0 -14,0"
+        android:fillColor="#4F46E5" />
+    <path
+        android:pathData="M54,54 m-3.5,0 a3.5,3.5 0 1,0 7,0 a3.5,3.5 0 1,0 -7,0"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Bottom confirmed node -->
+    <path
+        android:pathData="M54,82 m-6,0 a6,6 0 1,0 12,0 a6,6 0 1,0 -12,0"
+        android:fillColor="#10B981" />
+    <path
+        android:pathData="M54,82 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -3,0"
+        android:fillColor="#FFFFFF" />
+</vector>
