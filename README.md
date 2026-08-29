@@ -22,7 +22,7 @@
 
 > **ThreadLine** is an open-source **Android app (Kotlin + Jetpack Compose)** that reads exported WhatsApp group chats from hackathon or student project teams and converts them into a structured **decision tracker, action-item board, conflict detector, and AI Q&A assistant** — so nobody has to scroll through 2,000 messages to find "wait, did we agree on Firebase or Supabase?"
 
-If you've ever lost a hackathon's architecture decision in a wall of WhatsApp texts, ThreadLine is for you. ⭐ **Star this repo** if that sounds familiar — it helps other student/hackathon teams discover the project.
+If you've ever lost a hackathon's architecture decision in a wall of WhatsApp texts, ThreadLine is for you.
 
 ---
 
